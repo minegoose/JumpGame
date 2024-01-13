@@ -1,1 +1,2 @@
-platformer game
+# JumpGame
+платформер, разработанный Артемом
